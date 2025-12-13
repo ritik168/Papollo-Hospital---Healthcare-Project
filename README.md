@@ -16,7 +16,7 @@ The core idea was simple — take raw hospital data and build a visual dashboard
 ✅ Bed and doctor performance metrics
 ✅ Patient feedback patterns
 
-## This project helps hospital administrators answer crucial questions like:
+This project helps hospital administrators answer crucial questions like:
 
 Which diagnoses are most frequent?
 
