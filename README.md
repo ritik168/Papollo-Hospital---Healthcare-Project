@@ -26,13 +26,13 @@ Which departments or doctors are getting the most feedback?
 
 How are occupancy levels across ICU, General, and Private wards?
 
-## 🧩 Key Insights from the Dashboard
-## 🦠 Top Diagnoses: Viral infections and flu were the most commonly reported issues.
-## 🧑‍⚕️ Feedback Trends: Dr. Jay Sinha and Dr. Ravi D received the highest patient feedback volumes.
-## 💰 Billing vs. Insurance: Billing frequently exceeded insurance coverage, signaling financial inefficiencies.
-## 🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
-
 🧩 Key Insights from the Dashboard
+🦠 Top Diagnoses: Viral infections and flu were the most commonly reported issues.
+🧑‍⚕️ Feedback Trends: Dr. Jay Sinha and Dr. Ravi D received the highest patient feedback volumes.
+💰 Billing vs. Insurance: Billing frequently exceeded insurance coverage, signaling financial inefficiencies.
+🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
+
+## 🧩 Key Insights from the Dashboard
 
 🦠 Top Diagnoses: Viral infections and flu were the most commonly reported issues.
 
@@ -42,13 +42,15 @@ How are occupancy levels across ICU, General, and Private wards?
 
 🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
 
+
 ## 🔨 Tools Used
 
 Power BI — For data modeling, relationships, dynamic visualizations
 
 Excel — For data cleaning and preprocessing before import
 
-🎯 Dashboard Features
+
+## 🎯 Dashboard Features
 
 🎚️ Interactive filters for patient ID and date range
 
@@ -68,6 +70,7 @@ Excel — For data cleaning and preprocessing before import
 
 🟡 KPI Cards — Total billed, insured, feedback counts
 
+
 ## 🚀 How to Use
 
 Download and open Hospital_Analysis.pbix in Power BI Desktop.
@@ -77,6 +80,7 @@ Place Papollo-Healthcare-Dataset.xlsx in the same folder.
 Refresh the data model.
 
 Use filters to explore insights across time, doctors, or departments.
+
 
 ## 📌 Why This Matters
 
