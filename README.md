@@ -12,8 +12,11 @@ That’s why I built an interactive, Power BI-based dashboard using real-world h
 The core idea was simple — take raw hospital data and build a visual dashboard that provides:
 
 ✅ Operational insights
+
 ✅ Diagnosis and billing trends
+
 ✅ Bed and doctor performance metrics
+
 ✅ Patient feedback patterns
 
 This project helps hospital administrators answer crucial questions like:
@@ -31,6 +34,7 @@ How are occupancy levels across ICU, General, and Private wards?
 🧑‍⚕️ Feedback Trends: Dr. Jay Sinha and Dr. Ravi D received the highest patient feedback volumes.
 💰 Billing vs. Insurance: Billing frequently exceeded insurance coverage, signaling financial inefficiencies.
 🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
+
 
 ## 🧩 Key Insights from the Dashboard
 
