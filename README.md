@@ -29,12 +29,6 @@ Which departments or doctors are getting the most feedback?
 
 How are occupancy levels across ICU, General, and Private wards?
 
-🧩 Key Insights from the Dashboard
-🦠 Top Diagnoses: Viral infections and flu were the most commonly reported issues.
-🧑‍⚕️ Feedback Trends: Dr. Jay Sinha and Dr. Ravi D received the highest patient feedback volumes.
-💰 Billing vs. Insurance: Billing frequently exceeded insurance coverage, signaling financial inefficiencies.
-🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
-
 
 ## 🧩 Key Insights from the Dashboard
 
