@@ -58,7 +58,8 @@ Excel — For data cleaning and preprocessing before import
 
 🧾 Financial view: Billing vs. insurance gaps
 
-🖼️ Sample Visuals & KPIs
+
+## 🖼️ Sample Visuals & KPIs
 
 🟣 Pie Charts — Diagnosis categories
 
