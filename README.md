@@ -19,15 +19,17 @@ The core idea was simple — take raw hospital data and build a visual dashboard
 
 ✅ Patient feedback patterns
 
+
 This project helps hospital administrators answer crucial questions like:
 
-Which diagnoses are most frequent?
 
-Are we overbilling or under-insured?
+. Which diagnoses are most frequent?
 
-Which departments or doctors are getting the most feedback?
+. Are we overbilling or under-insured?
 
-How are occupancy levels across ICU, General, and Private wards?
+. Which departments or doctors are getting the most feedback?
+
+. How are occupancy levels across ICU, General, and Private wards?
 
 
 ## 🧩 Key Insights from the Dashboard
@@ -41,22 +43,25 @@ How are occupancy levels across ICU, General, and Private wards?
 🛏️ Bed Usage: General wards had the highest occupancy — an opportunity to optimize room allocation.
 
 
+
 ## 🔨 Tools Used
 
-Power BI — For data modeling, relationships, dynamic visualizations
+. Power BI — For data modeling, relationships, dynamic visualizations
 
-Excel — For data cleaning and preprocessing before import
+. Excel — For data cleaning and preprocessing before import
+
 
 
 ## 🎯 Dashboard Features
 
-🎚️ Interactive filters for patient ID and date range
+. 🎚️ Interactive filters for patient ID and date range
 
-📈 Dynamic charts showing diagnosis, billing, and feedback trends
+. 📈 Dynamic charts showing diagnosis, billing, and feedback trends
 
-🏥 Bed occupancy analysis by department (ICU, General, Private)
+. 🏥 Bed occupancy analysis by department (ICU, General, Private)
 
-🧾 Financial view: Billing vs. insurance gaps
+. 🧾 Financial view: Billing vs. insurance gaps
+
 
 
 ## 🖼️ Sample Visuals & KPIs
@@ -70,17 +75,41 @@ Excel — For data cleaning and preprocessing before import
 🟡 KPI Cards — Total billed, insured, feedback counts
 
 
+
 ## 🚀 How to Use
 
-Download and open Hospital_Analysis.pbix in Power BI Desktop.
+1. Download and open Hospital_Analysis.pbix in Power BI Desktop.
 
-Place Papollo-Healthcare-Dataset.xlsx in the same folder.
+2. Place Papollo-Healthcare-Dataset.xlsx in the same folder.
 
-Refresh the data model.
+3. Refresh the data model.
 
-Use filters to explore insights across time, doctors, or departments.
+4. Use filters to explore insights across time, doctors, or departments.
 
 
 ## 📌 Why This Matters
 
 This project isn’t just about pretty charts — it’s about solving real-world healthcare problems. Whether you’re a data analyst, hospital manager, or student learning Power BI, this dashboard shows how data can be used for actionable insight and operational improvement in healthcare.
+
+It was also a hands-on way to improve my skills in:
+
+. 🔄 Data integration & cleaning
+
+. 📊 Visual storytelling
+
+. 🧠 Healthcare KPI analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
