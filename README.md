@@ -1,4 +1,4 @@
-# Papollo-Hospital :- Healthcare-Project
+# Papollo Hospital :- Hospital Operations and Revenue Analysis Dashboard
 
 
 ## 🧠 Introduction
