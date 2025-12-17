@@ -165,8 +165,6 @@ Charts & Visuals – Bar, Donut, Funnel, Line charts
  Disease trends help plan staffing, beds, and medical supplies
 
 
-.
-
 ## 💡Business Recommendations
 
 ✔ Focus more resources on Viral Infection and Flu cases as they have the highest patient count
@@ -186,7 +184,7 @@ Charts & Visuals – Bar, Donut, Funnel, Line charts
 
 ## Dashboard Preview
 
-![Screenshort]()
+![Screenshort](https://github.com/ritik168/Papollo-Hospital---Healthcare-Project/blob/main/Screenshot%202025-12-17%20000014.png)
 
 
 ## Project End.
