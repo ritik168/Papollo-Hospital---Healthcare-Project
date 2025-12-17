@@ -120,7 +120,7 @@ Focus on high-revenue medical services
 🔟 Date-wise Treatment Coverage – Admit, discharge & follow-up tracking
 
 
-## 🛠️ TOOLS USED
+## 🛠️ Tools Used
 
 Power BI – Dashboard creation & data visualization
 
